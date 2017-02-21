@@ -12,5 +12,6 @@
 .ui.mid.container{
   background-color: #f4f4f4;
   padding-top:20px;
+  aligned-item : center;
 }
 
