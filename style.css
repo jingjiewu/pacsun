@@ -1,0 +1,16 @@
+.ui.topmenu.menu{
+  border: none;
+  background-color: black;
+}
+
+.ui.borderless.menu{
+  border:none;
+  box-shadow:none;
+
+}
+
+.ui.mid.container{
+  background-color: #f4f4f4;
+  padding-top:20px;
+}
+
